@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card1 {
+  background-color: rgb(255, 174, 174);
+  border: 2px solid white;
+}
+.card2 {
+  background-color: red;
+  border: 2px solid white;
+  border-radius: 2px solid pink;
+}
+.card3 {
+  background-color: green;
+  border: 2px solid white;
+}
